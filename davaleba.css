@@ -1,0 +1,224 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #07081A;
+}
+
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 64px;
+    border-bottom: 1px solid #261C51;
+
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.claudo {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.claudo p {
+    color: #fff;
+    font-weight: 500;
+}
+
+.menu {
+    display: flex;
+    gap: 16px;
+}
+
+
+.menu a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.diff {
+    color: #B968DE;
+}
+
+.inv {
+    color: #fff;
+}
+
+.sup {
+    color: #fff;
+}
+
+.gui {
+    color: #fff;
+}
+
+.group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    background: #9100D3;
+}
+
+.accelerate {
+    display: flex;
+    justify-content: center;
+    margin-top: 88px;
+    width: 100%;
+}
+
+.acc {
+    text-align: center;
+    max-width: 600px;
+    width: 100%;
+}
+
+.acc h1 {
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 52px;
+    color: #fff;
+    padding-bottom: 32px;
+}
+
+.acc p {
+    color: #C0C0C0;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 32px;
+}
+
+.acc input {
+    max-width: 186px;
+    width: 100%;
+    height: 48px;
+    border-radius: 8px;
+    background-color: #9100D3;
+    border: none;
+    color: #fff;
+}
+
+.odea {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 72px;
+    margin-top: 88px;
+}
+
+.labs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 90px;
+    max-width: 1040px;
+    width: 100%;
+    height: 72px;
+}
+
+.odealabs {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.odealabs p {
+    font-size: 24px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.language {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 88px;
+}
+
+.any {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.box {
+    max-width: 304px;
+    width: 100%;
+    border: 1px solid #261C51;
+    border-radius: 8px;
+}
+
+.box h3 {
+    padding-top: 16px;
+    padding-left: 24px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.text {
+    margin-top: 16px;
+    margin-left: 24px;
+    max-width: 256px;
+    width: 100%;
+}
+
+.text p {
+    color: #C0C0C0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-bottom: 40px;
+}
+
+.rights {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 64px;
+    margin-top: 88px;
+    border-top: 1px solid #261C51;
+}
+
+.futeri {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.futeri p {
+    color: #fff;
+    font-weight: 500;
+
+}
+
+.logo {
+    display: flex;
+    gap: 24px;
+}
